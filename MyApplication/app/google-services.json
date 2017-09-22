@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242443608960",
+    "firebase_url": "https://tescomyapplication.firebaseio.com",
+    "project_id": "tescomyapplication",
+    "storage_bucket": "tescomyapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242443608960:android:5364b09a11cce7c3",
+        "android_client_info": {
+          "package_name": "tesco.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242443608960-6u7htt7eb0spp1hvpckmfs71nhkna2ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk_O5fMcbbRRiX82eyQAOD6JD8cvNmoIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
